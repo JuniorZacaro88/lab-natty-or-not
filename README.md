@@ -20,19 +20,19 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# História do Corinthians
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Objetivo contar a história do Sport Club Corinthians Paulista, um dos clubes mais tradicionais e amados do futebol brasileiro. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Gamma e ChatGPT
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fui no site do Gamma e abri o app, entrei em iniciar novo projeto, escolhi um template e selecionei o tema dos slides e colquei em gerar.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://gamma.app/docs/Historia-do-Corinthians-weqd0tdvtvq4ai2?mode=doc
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
